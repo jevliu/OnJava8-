@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OnJava8-Exercises.iml" filepath="$PROJECT_DIR$/OnJava8-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/control.iml" filepath="$PROJECT_DIR$/control/control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional/functional.iml" filepath="$PROJECT_DIR$/functional/functional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hiding/hiding.iml" filepath="$PROJECT_DIR$/hiding/hiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/housekeeping/housekeeping.iml" filepath="$PROJECT_DIR$/housekeeping/housekeeping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerclasses/innerclasses.iml" filepath="$PROJECT_DIR$/innerclasses/innerclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onjava/onjava.iml" filepath="$PROJECT_DIR$/onjava/onjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resuse/resuse.iml" filepath="$PROJECT_DIR$/resuse/resuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+    </modules>
+  </component>
+</project>
