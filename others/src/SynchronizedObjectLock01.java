@@ -3,8 +3,8 @@
  * @implNote 展示Synchronized 关键字是如何手动指定锁定对象的
  * @since 2024/6/25 10:06:07
  */
-public class SynchronizedObjectLock implements Runnable {
-    static SynchronizedObjectLock instance = new SynchronizedObjectLock();
+public class SynchronizedObjectLock01 implements Runnable {
+    static SynchronizedObjectLock01 instance = new SynchronizedObjectLock01();
 
     @Override
     public void run(){

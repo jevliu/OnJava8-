@@ -2,7 +2,7 @@ import javax.crypto.spec.PSource;
 
 /**
  * @author 刘季伟
- * @implNote 展示Synchronized 关键字使用示例02
+ * @implNote 展示Synchronized 关键字代码块形式使用示例02
  * @since 2024/6/25 10:15:12
  */
 public class SynchronizedObjectLock02 implements Runnable{
