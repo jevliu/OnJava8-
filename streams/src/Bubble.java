@@ -12,6 +12,7 @@ public class Bubble {
         return "Bubble(" + i + ")";
     }
     private static int count = 0;
+    // 包含了自己的静态生成器方法
     public static Bubble bubbler() {
         return new Bubble(count++);
     }
