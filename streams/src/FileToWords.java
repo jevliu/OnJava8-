@@ -3,7 +3,7 @@ import java.util.stream.*;
 import java.util.regex.Pattern;
 /**
  * @author 刘季伟
- * @implNote
+ * @implNote 展示如何创建一个不需要中间储存层的单词流
  * @since 2024/7/18 15:54:03
  */
 public class FileToWords {
