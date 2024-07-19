@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/resuse/resuse.iml" filepath="$PROJECT_DIR$/resuse/resuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
     </modules>
   </component>
 </project>
