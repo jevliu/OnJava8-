@@ -5,6 +5,7 @@
  */
 public class Immutable {
     public static String upCase(String s){
+        // 实际传递的是s引用的一个拷贝
         return s.toUpperCase();
     }
 
