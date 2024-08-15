@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/resuse/resuse.iml" filepath="$PROJECT_DIR$/resuse/resuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typeinfo/typeinfo.iml" filepath="$PROJECT_DIR$/typeinfo/typeinfo.iml" />
     </modules>
   </component>
 </project>
