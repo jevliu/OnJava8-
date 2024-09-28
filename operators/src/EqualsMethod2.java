@@ -15,5 +15,10 @@ public class EqualsMethod2 {
         v1.i = v2.i = 100;
 
         System.out.println(v1.equals(v2));
+
+        double d1 = 0x1.0p-3;
+        System.out.printf("d1 = %f\n", d1);
+
+
     }
 }
