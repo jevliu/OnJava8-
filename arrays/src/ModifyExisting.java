@@ -9,6 +9,6 @@ import static onjava.ArrayShow.*;
 public class ModifyExisting {
     public static void main(String[] args) {
         double[] da = new double[7];
-        Arrays.setAll(da, new Rand.Double()::get);
+//        Arrays.setAll(da, new Rand.Double()::get);
     }
 }
