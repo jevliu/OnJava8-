@@ -20,4 +20,15 @@ public class Manager extends Employee {
     public void setBonus(double number) {bonus = number;}
 
     public double getBonus() {return bonus;}
+
+    public int hashCode() {
+        return super.hashCode() + 17 * Double.hashCode(bonus);
+    }
+
+    public String toString() {
+        return super.toString()
+                + "[bonus=" +bonus
+                + "]";
+
+    }
 }

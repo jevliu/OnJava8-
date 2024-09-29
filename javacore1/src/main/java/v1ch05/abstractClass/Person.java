@@ -6,7 +6,7 @@ package v1ch05.abstractClass;
  * @since 2024/9/29 11:04:04
  */
 public abstract class Person {
-    private String name;
+    protected String name;
 
     public Person(String s) {
         name = s;

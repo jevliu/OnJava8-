@@ -16,5 +16,19 @@ public class PersonTest {
         for (Person p : array) {
             System.out.println(p.getDescription());
         }
+
+        Employee e1 = (Employee) array[1];
+        System.out.println(e1.getOnboardTime());
+
+        // hashCode
+        String s = "ok";
+        StringBuilder sb = new StringBuilder(s);
+        System.out.println(s.hashCode() + " " + sb.hashCode());
+        String t = "ok";
+        StringBuilder tb = new StringBuilder(t);
+        System.out.println(t.hashCode() + " " + tb.hashCode());
+
+        Manager m1 = (Manager) array[2];
+        System.out.println(""+m1);
     }
 }
