@@ -7,7 +7,7 @@ import java.util.Objects;
  * @implNote
  * @since 2024/9/29 11:11:54
  */
-public class Employee extends Person {
+public class Employee extends Person implements Comparable<Employee>{
     private double salary;
     private LocalDate onboardTime;
 
@@ -15,6 +15,12 @@ public class Employee extends Person {
         super(name);
         onboardTime = LocalDate.of(year, month, day);
         this.salary = salary;
+    }
+
+
+    public int compareTo(Employee o) {
+
+        return Double.compare(salary, o.salary);
     }
 
     public String getDescription(){
