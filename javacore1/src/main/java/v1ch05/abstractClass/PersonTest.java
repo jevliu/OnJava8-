@@ -1,5 +1,8 @@
 package v1ch05.abstractClass;
 
+import java.util.Arrays;
+
+import static java.util.Comparator.*;
 /**
  * @author 刘季伟
  * @implNote
@@ -30,5 +33,9 @@ public class PersonTest {
 
         Manager m1 = (Manager) array[2];
         System.out.println(""+m1);
+
+        // Use Comparator
+        Arrays.sort(array, comparing(Person::getName, nullsFirst(naturalOrder())));
+        System.out.println(Arrays.toString(array));
     }
 }
