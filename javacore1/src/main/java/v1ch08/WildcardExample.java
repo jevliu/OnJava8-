@@ -12,6 +12,8 @@ public class WildcardExample {
         }
     }
 
+
+
     public static void main(String[] args) {
         List<String> stringList = new ArrayList<>();
         stringList.add("Hello");
