@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+javacore1/target/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
